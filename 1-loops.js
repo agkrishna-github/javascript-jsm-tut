@@ -32,3 +32,31 @@ const width = callfunc(5)
 
 console.log(height, width);
  */
+
+///////////////////////////////////////////
+
+const numArray = [1,2,3,4,5]
+
+for(const num of numArray){
+    console.log('number' + num)
+}
+
+///////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
